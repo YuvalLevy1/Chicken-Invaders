@@ -1,3 +1,4 @@
+	;author: yuval levy
 	ideal
 	model small
 	stack 100h
